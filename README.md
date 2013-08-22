@@ -1,3 +1,5 @@
+# Work in Progess until this is removed
+
 # git-server
 
 Simple salt setup for a barebones git server
